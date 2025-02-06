@@ -1,0 +1,11 @@
+> # Top 10 websites to practice coding 📚💥
+> 1. [Sololearn](https://www.sololearn.com)
+> 2. [LeetCode](https://leetcode.com/)
+> 3. [HackerRank](https://www.hackerrank.com/)
+> 4. [Geeksforgeeks](https://www.geeksforgeeks.org)
+> 5. [CodeChef](https://www.codechef.com/)
+> 6. [Codewar](https://www.codewar.com)
+> 7. [CodeForces](https://codeforces.com)
+> 8. [HackerEarth](https://www.hackerearth.com)
+> 9. [InterviewBit](https://www.interviewbit.com)
+> 10. [edabit](https://www.edabit.com)
